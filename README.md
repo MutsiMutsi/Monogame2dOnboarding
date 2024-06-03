@@ -1,7 +1,7 @@
-# Monogame2dOnboarding
+# Monogame 2D Onboarding Tutorial
 A collaborative effort to fulfil the requirements set out here https://github.com/MonoGame/MonoGame/issues/8317
 
-We waver the rights of distribution, ownership, and the accompanied bountry reward in spirit of open source software and knowledge.
+We waver the rights of distribution and ownership so that this documentation can be used by the monogame foundation, in the spirit of open source software and freedom of knowledge sharing we shall vow to donate the proceeds to a non-profit good cause foundation as is to be determined by consensus of the contributors. This could be the Monogame Foundation or any other qualifiable foundation.
 
 Everyone is free and encouraged to contribute through PR.
 
